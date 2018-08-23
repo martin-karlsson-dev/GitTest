@@ -47,7 +47,7 @@
             this.ClientSize = new System.Drawing.Size(825, 466);
             this.Controls.Add(this.label1);
             this.Name = "MainForm";
-            this.Text = "Form1";
+            this.Text = "Main window";
             this.ResumeLayout(false);
             this.PerformLayout();
 
